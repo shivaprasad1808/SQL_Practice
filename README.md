@@ -1,4 +1,5 @@
 **SQL_Project_Patient_Database_Analysis**
+
 SQL project featuring 50 hands-on practice queries based on a healthcare (patient-admission-doctor) database.
 This project allows users to strengthen SQL skills and explore real-world data scenarios, such as patient admissions and medical analytics.
 
