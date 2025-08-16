@@ -1,6 +1,6 @@
 ****SQL_Project_Patient_Database_Analysis****
 
-SQL project featuring 50 hands-on practice queries based on a healthcare (patient-admission-doctor) database.
+SQL project featuring 50 hands-on practice queries based on a healthcare (patient-admission-doctor) database https://www.sql-practice.com/
 This project allows users to strengthen SQL skills and explore real-world data scenarios, such as patient admissions and medical analytics.
 
 ****💡Overview****
@@ -22,7 +22,7 @@ province_names: Province code and full province name.
 
 ****Relationships:****
 
-Each patient is assigned to a province via province_id.
+Each patient is assigned to a patient_id and province via province_id.
 
 Each admission logs the patient_id and attending_doctor_id.
 
