@@ -7,7 +7,8 @@ This project allows users to strengthen SQL skills and explore real-world data s
 This repository contains structured SQL exercises and solutions designed for interview prep and hands-on learning.
 All queries were created and tested using Learn SQL - Online SQL Terminal - Practice SQL Querys and are compatible with popular RDBMS like SQL Server (T-SQL).
 
-**🏥**Database Schema****
+**🏥Database Schema******
+
 The database is made up of the following tables:
 
 patients: Patient details (name, gender, birth date, city, province, allergies, height, weight).
