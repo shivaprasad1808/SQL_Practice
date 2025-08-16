@@ -2,7 +2,7 @@
 SQL project featuring 50 hands-on practice queries based on a healthcare (patient-admission-doctor) database.
 This project allows users to strengthen SQL skills and explore real-world data scenarios, such as patient admissions and medical analytics.
 
-💡**Overview**
+**💡Overview**
 This repository contains structured SQL exercises and solutions designed for interview prep and hands-on learning.
 All queries were created and tested using Learn SQL - Online SQL Terminal - Practice SQL Querys and are compatible with popular RDBMS like SQL Server (T-SQL).
 
